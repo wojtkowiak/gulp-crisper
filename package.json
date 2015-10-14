@@ -28,7 +28,7 @@
     "components"
   ],
   "dependencies": {
-    "crisper": "^1.0.3",
+    "crisper": "https://github.com/wojtkowiak/crisper.git",
     "gulp-util": "^3.0.6",
     "through2": "^2.0.0"
   },
